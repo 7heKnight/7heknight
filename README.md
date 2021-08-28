@@ -4,7 +4,7 @@
 </p>
 
 <p align=center>
-<a href="https://www.facebook.com/7heknight"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook@7heknight"></a>
-<a href="https://www.linkedin.com/in/7heknight"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@7heknight"></a>
+<a href="https://www.facebook.com/ahihi"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook@ahihi></a>
+<a href="https://www.linkedin.com/in/ahihi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@ahihih"></a>
 <a href="https://github.com/7heKnight/"><img src="https://img.shields.io/badge/About--_.svg?style=about" alt="About"></a>
 </p>
