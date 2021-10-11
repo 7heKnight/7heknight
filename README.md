@@ -6,8 +6,8 @@
 <p align=center>
 <a href="https://www.facebook.com/7h3knight/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook@7h3knight"></a>
 <a href="https://www.linkedin.com/in/7heknight/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@7heknight"></a>
-<a href="https://github.com/7heKnight/"><img src="https://img.shields.io/badge/About--_.svg?style=about" alt="About"></a><br>
-  <br><strong>Visitor count</strong>
+<a href="https://github.com/7heKnight/"><img src="https://img.shields.io/badge/About--_.svg?style=about" alt="About"></a><br><br>
+  <strong>Visitor count</strong><br>
 <img src="https://profile-counter.glitch.me/7heKnight/count.svg"/>
 </p>
 
