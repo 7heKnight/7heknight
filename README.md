@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/7heknight/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@7heknight"></a>
 <a href="https://github.com/7heKnight/"><img src="https://img.shields.io/badge/About--_.svg?style=about" alt="About"></a>
   <br>------------------------------------------------<br>
-  <strong style="font-size:50px;">Visitor count</strong><br>
-<img src="https://profile-counter.glitch.me/7heKnight/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=7heknight/>
 </p>
 
