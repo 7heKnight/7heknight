@@ -1,0 +1,54 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      # General stats card
+      - name: Generate GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: 7heknight
+          base: header, activity, community, repositories
+          base.indepth: true
+          config_display: large
+          config_output: svg
+          config_padding: 0, 8 + 11%
+          extras_css: |
+            * { color: #58a6ff !important; }
+            svg { background: transparent; }
+            h2, h3 { color: #58a6ff !important; }
+
+      # Top languages card
+      - name: Generate Languages Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: 7heknight
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: true
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "0:58a6ff, 1:1f6feb, 2:388bfd, 3:58a6ff, 4:79c0ff, 5:a5d6ff, 6:58a6ff, 7:1f6feb, 8:388bfd, 9:58a6ff"
+          config_display: large
+          config_output: svg
+          config_padding: 0, 8 + 11%
+          extras_css: |
+            * { color: #58a6ff !important; }
+            svg { background: transparent; }

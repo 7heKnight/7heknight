@@ -8,8 +8,8 @@
 
 <p align="center">
   <kbd>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=7heknight&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&show=reviews,prs_merged" />
-    <img height="155" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7heknight&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&card_width=485&line_height=35&cache_seconds=86400&size_weight=0.5&count_weight=0.5" />
+    <img width="400" src="https://raw.githubusercontent.com/7heknight/7heknight/main/github-metrics.svg" alt="GitHub Stats" />
+    <img height="155" width="400" src="https://raw.githubusercontent.com/7heknight/7heknight/main/github-languages.svg" alt="Top Languages" />
   </kbd>
 </p>
 
