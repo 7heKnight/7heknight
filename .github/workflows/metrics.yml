@@ -45,7 +45,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_limit: 10
           plugin_languages_sections: most-used
-          plugin_languages_colors: "0:58a6ff, 1:1f6feb, 2:388bfd, 3:58a6ff, 4:79c0ff, 5:a5d6ff, 6:58a6ff, 7:1f6feb, 8:388bfd, 9:58a6ff"
+          plugin_languages_colors: "0:#58a6ff, 1:#1f6feb, 2:#388bfd, 3:#58a6ff, 4:#79c0ff, 5:#a5d6ff, 6:#58a6ff, 7:#1f6feb, 8:#388bfd, 9:#58a6ff"
           config_display: large
           config_output: svg
           config_padding: 0, 8 + 11%
